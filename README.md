@@ -21,6 +21,7 @@ SR No   | Program | Author
 14 | Queue  |   [Ankush Dutta](https://github.com/GenDelta)
 15 | Queue Program |   [Ankush Dutta](https://github.com/GenDelta)
 16 | String Filter Program  |   [Ankush Dutta](https://github.com/GenDelta)
-17 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
-
-
+17 | Armstrong Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
+18 | Bouncy Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
+19 | Composite Magic Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
+20 | Area Overloading Program  |   [Ankush Dutta](https://github.com/GenDelta)

@@ -13,3 +13,4 @@ SR No   | Program | Author
 6 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
 7 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
 8 | Maximum Product Subarray | [Jishnudeep Borah](https://github.com/Jishnu2608)
+9 | Rat in A maze  |   [Shivansh Singh](https://github.com/shivanshsin0203)

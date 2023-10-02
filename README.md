@@ -12,3 +12,4 @@ SR No   | Program | Author
 5 | N Queens Problem  |   [Shivansh Singh](https://github.com/shivanshsin0203)
 6 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
 7 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
+8 | Merge Sort Algorithem | [MD SHAFI UDDIN] (https://github.com/6736-shafi)

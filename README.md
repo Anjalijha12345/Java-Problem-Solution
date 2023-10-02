@@ -18,6 +18,9 @@ SR No   | Program | Author
 11 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
 12 | Maximum Product Subarray | [Jishnudeep Borah](https://github.com/Jishnu2608)
 13 | Rat in A maze  |   [Shivansh Singh](https://github.com/shivanshsin0203)
-14 | Trapping Rain Water  |   [Akash Soam](https://github.com/soam1)
+14 | Queue  |   [Ankush Dutta](https://github.com/GenDelta)
+15 | Queue Program |   [Ankush Dutta](https://github.com/GenDelta)
+16 | String Filter Program  |   [Ankush Dutta](https://github.com/GenDelta)
+17 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
 
 

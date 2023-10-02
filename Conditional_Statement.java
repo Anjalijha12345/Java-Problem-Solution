@@ -1,17 +1,18 @@
 import java.util.Scanner;
-public class Exercise2 {
+public class Conditional_Statement {
 
     
   public static void main(String[] Strings) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
             System.out.print("Input a: ");
-            double a = input.nextDouble();
+            double a = sc.nextDouble();
             System.out.print("Input b: ");
-            double b = input.nextDouble();
+            double b = sc.nextDouble();
             System.out.print("Input c: ");
-            double c = input.nextDouble();
+            double c = sc.nextDouble();
+            sc.close();
 
             double result = b * b - 4.0 * a * c;
 

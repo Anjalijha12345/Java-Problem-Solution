@@ -1,4 +1,3 @@
-package JavaPrgs;
 //Importing Java.util Package to use Scanner class
 import java.util.*;
 public class Longest_Palindrome_Series_Present_In_String {

@@ -1,11 +1,11 @@
-public class RatInMaze {
+public class Rat_in_Maze {
 
     private static final int OPEN = 1;
     private static final int PATH = 2;
     private int[][] maze;
     private int[][] solution;
 
-    public RatInMaze(int[][] maze) {
+    public Rat_in_Maze(int[][] maze) {
         this.maze = maze;
         this.solution = new int[maze.length][maze[0].length];
     }
@@ -67,7 +67,7 @@ public class RatInMaze {
             {0, 1, 0, 0},
             {1, 1, 1, 1}
         };
-        RatInMaze rat = new RatInMaze(maze);
+        Rat_in_Maze rat = new Rat_in_Maze(maze);
         rat.solve();
     }
 }

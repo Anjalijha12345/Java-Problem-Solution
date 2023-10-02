@@ -1,7 +1,7 @@
 /* Java program for solution of
    N Coloring problem using backtracking */
 
-public class nColoringProblem {
+public class N_Colouring_Problem {
     final int V = 4;
     int color[];
 
@@ -92,7 +92,7 @@ public class nColoringProblem {
     // Driver code
     public static void main(String args[])
     {
-        mColoringProblem Coloring = new mColoringProblem();
+        N_Colouring_Problem Coloring = new N_Colouring_Problem();
         /* Create following graph and
            test whether it is
            3 colorable

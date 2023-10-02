@@ -13,3 +13,9 @@ SR No   | Program | Author
 6 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
 7 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
 8 | Merge Sort Algorithem | [MD SHAFI UDDIN] (https://github.com/6736-shafi)
+9 | Add two Matrices  |   [Aaisha Perveen](https://github.com/aaisha26)
+10 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
+11 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
+12 | Maximum Product Subarray | [Jishnudeep Borah](https://github.com/Jishnu2608)
+13 | Rat in A maze  |   [Shivansh Singh](https://github.com/shivanshsin0203)
+

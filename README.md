@@ -11,3 +11,4 @@ SR No   | Program | Author
 4 | Sum of max Path in Binary Tree | [Kedar Solapure](https://github.com/kedarrr)
 5 | N Queens Problem  |   [Shivansh Singh](https://github.com/shivanshsin0203)
 6 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
+7 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)

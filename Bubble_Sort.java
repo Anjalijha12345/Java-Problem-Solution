@@ -1,7 +1,4 @@
 // Optimized java implementation of Bubble sort
-
-import java.io.*;
-
 class GFG {
 	
 	// An optimized version of Bubble Sort

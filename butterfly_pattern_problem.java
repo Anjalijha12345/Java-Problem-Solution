@@ -1,6 +1,4 @@
-package pattern;
-
-public class butterflypatt {
+public class butterfly_pattern_problem {
     public static void butterfly(int n) {
         // 1st half
         for(int i = 1; i <= n; i++) {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercise3 {
+public class greatestnumber {
 
     
   public static void main(String[] args) {
@@ -13,6 +13,7 @@ public class Exercise3 {
    
   System.out.print("Input the 3rd number: ");
   int num3 = in.nextInt();
+  in.close();
    
    
   if (num1 > num2)

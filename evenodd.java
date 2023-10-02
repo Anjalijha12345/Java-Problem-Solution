@@ -6,6 +6,7 @@ class Main {
     System.out.println("Enter a number: ");
     Scanner sc = new Scanner(System.in);
     int number =Integer.parseInt(sc.nextLine());
+    sc.close();
     int x = number%2;
     
     if(x==0){

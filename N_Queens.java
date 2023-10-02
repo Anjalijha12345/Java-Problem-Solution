@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class NQueens {
+public class N_Queens {
 
     /**
      * Solves the N-Queens problem.
@@ -82,7 +82,7 @@ public class NQueens {
     }
 
     public static void main(String[] args) {
-        NQueens nQueens = new NQueens();
+        N_Queens nQueens = new N_Queens();
         int n = 4;
         List<List<String>> solutions = nQueens.solveNQueens(n);
 

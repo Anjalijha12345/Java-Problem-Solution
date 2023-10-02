@@ -18,4 +18,6 @@ SR No   | Program | Author
 11 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
 12 | Maximum Product Subarray | [Jishnudeep Borah](https://github.com/Jishnu2608)
 13 | Rat in A maze  |   [Shivansh Singh](https://github.com/shivanshsin0203)
+14 | Trapping Rain Water  |   [Akash Soam](https://github.com/soam1)
+
 

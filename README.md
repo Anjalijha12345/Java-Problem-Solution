@@ -22,5 +22,6 @@ SR No   | Program | Author
 15 | Queue Program |   [Ankush Dutta](https://github.com/GenDelta)
 16 | String Filter Program  |   [Ankush Dutta](https://github.com/GenDelta)
 17 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
+18 | Kadane's Algorithm  |   [Deepak Maurya](https://github.com/deepakmaur)
 
 

@@ -12,7 +12,7 @@ SR No   | Program | Author
 5 | N Queens Problem  |   [Shivansh Singh](https://github.com/shivanshsin0203)
 6 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
 7 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
-8 | Merge Sort Algorithem | [MD SHAFI UDDIN] (https://github.com/6736-shafi)
+8 | Merge Sort Algorithem | [MD SHAFI UDDIN](https://github.com/6736-shafi)
 9 | Add two Matrices  |   [Aaisha Perveen](https://github.com/aaisha26)
 10 | Bubble Sort Problem | [Pawan Raj Singh](https://github.com/pawanrajsingh2088)
 11 | Longest Palindrome Present in String | [Sahil Kumar](https://github.com/SahilKumarIN)
@@ -21,11 +21,6 @@ SR No   | Program | Author
 14 | Queue  |   [Ankush Dutta](https://github.com/GenDelta)
 15 | Queue Program |   [Ankush Dutta](https://github.com/GenDelta)
 16 | String Filter Program  |   [Ankush Dutta](https://github.com/GenDelta)
-
-
-
-
-=======
 17 | Armstrong Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
 18 | Bouncy Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
 19 | Composite Magic Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
@@ -34,3 +29,4 @@ SR No   | Program | Author
 22 | Prime Number program |  [Moola Pravalesh](https://github.com/MoolaPravalesh19)
 23 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
 24 | Kadane's Algorithm  |   [Deepak Maurya](https://github.com/deepakmaur)
+

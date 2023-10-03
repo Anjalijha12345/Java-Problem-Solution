@@ -26,3 +26,4 @@ SR No   | Program | Author
 19 | Composite Magic Number Program  |   [Ankush Dutta](https://github.com/GenDelta)
 20 | Area Overloading Program  |   [Ankush Dutta](https://github.com/GenDelta)
 21 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
+22 | Prime Number program |  [Moola Pravalesh](https://github.com/MoolaPravalesh19)

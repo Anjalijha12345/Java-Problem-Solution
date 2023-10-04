@@ -1,0 +1,52 @@
+package pakage;
+class MarksOutOfBoundException extends Exception
+{
+	MarksOutOfBoundException(String message)
+	{
+		super(message);
+	}
+}
+class student
+{
+	String name;
+	int marks;
+	void setname (String name)
+	{
+		this.name=name;
+	}
+	public void setmarks(int marks)throws MarksOutOfBoundException
+	{
+			if(marks>100)
+			{
+			throw new MarksOutOfBoundException("Marks can't be greater than 100");
+			}
+	this.marks=marks;
+		}
+	String display()
+	{
+		return name;
+	}
+	int display1()
+	{
+		return marks;
+	}
+}
+ public class q3{
+	 public static void main (String []args)
+	 {
+		 student s=new student();
+
+		s.setname("Saket");
+		try 
+		{
+			
+		s.setmarks(90);
+		}
+		catch(MarksOutOfBoundException e)
+		{
+			System.out.println(e.getMessage());
+		}
+		System.out.println(s.display()+" has got "+s.display1()+" marks");
+ 
+}
+ }

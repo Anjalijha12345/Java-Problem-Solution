@@ -29,4 +29,5 @@ SR No   | Program | Author
 22 | Prime Number program |  [Moola Pravalesh](https://github.com/MoolaPravalesh19)
 23 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
 24 | Kadane's Algorithm  |   [Deepak Maurya](https://github.com/deepakmaur)
+25 | Find First and Last Position of Element in Sorted Array | [Jishnudeep Borah](https://github.com/Jishnu2608)
 

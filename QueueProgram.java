@@ -1,12 +1,8 @@
-/*A simple java program demonstrating a Queue data structure. 
- * No pre-defined functions available in a library were used.
- * The execution of the program is strictly menu driven.
- */
-
 import java.util.*;
+
 public class QueueProgram {
     public static void main(String[] args) {
-        Queue queue = new Queue();
+        Queue queue = new Queue();  // Create an instance of the Queue class
         Scanner scanner = new Scanner(System.in);
         int choice;
 
@@ -18,29 +14,29 @@ public class QueueProgram {
             System.out.println("4. Display");
             System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();  // Read the user's menu choice
 
             switch (choice) {
                 case 1:
                     System.out.print("Enter the element to enqueue: ");
                     int item = scanner.nextInt();
-                    queue.enqueue(item);
+                    queue.enqueue(item);  // Call the enqueue method to add an element to the queue
                     break;
 
                 case 2:
-                    int dequeuedItem = queue.dequeue();
+                    int dequeuedItem = queue.dequeue();  // Call the dequeue method to remove an element
                     if (dequeuedItem != -1)
                         System.out.println("Dequeued: " + dequeuedItem);
                     break;
 
                 case 3:
-                    int peekItem = queue.peek();
+                    int peekItem = queue.peek();  // Call the peek method to view the front element
                     if (peekItem != -1)
                         System.out.println("Peek: " + peekItem);
                     break;
 
                 case 4:
-                    queue.display();
+                    queue.display();  // Call the display method to show the elements in the queue
                     break;
 
                 case 5:
@@ -50,7 +46,7 @@ public class QueueProgram {
                 default:
                     System.out.println("Invalid choice. Try again.");
             }
-        } while (choice != 5);
-        scanner.close();
+        } while (choice != 5);  // Continue the menu loop until the user chooses to exit (choice 5)
+        scanner.close();  // Close the scanner when done
     }
 }

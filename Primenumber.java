@@ -6,6 +6,7 @@ class Prime
      Scanner sc=new Scanner(System.in);
 	   System.out.println("Enter a no.:");
 	   int n=sc.nextInt();
+	   sc.close();
 	   int i,c=0;
 	   for(i=1;i<=n;i++)
 	   {
